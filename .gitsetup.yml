@@ -1,0 +1,6 @@
+---
+remotes:
+  primary: git@github.com:destructuring/opsdb
+  secondary: git@bitbucket.org:destructuring/opsdb
+  rb: https://github.com/destructuring/rb-helper
+  bump: https://github.com/destructuring/mixin-bump
